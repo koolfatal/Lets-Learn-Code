@@ -1,2 +1,2 @@
 # Lets-Learn-Code
-A repository for Java
+A repository for Learning -- Java code --
